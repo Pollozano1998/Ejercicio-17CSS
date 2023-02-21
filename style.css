@@ -1,0 +1,28 @@
+header{
+    background-color: coral;
+    height: 100px;
+    width: 100%;
+}
+nav{
+    background-color: deeppink;
+    height: 25px;
+    width: 100%;
+}
+section{
+    float: left;
+    background-color: greenyellow;
+    height: 375px;
+    width: 650px;
+}
+aside{
+    float: right;
+    background-color: firebrick;
+    height: 375px;
+    width: 600px;
+}
+footer{
+    clear: both;
+    background-color: blue;
+    height: 50px;
+    width: 100%px;
+}
